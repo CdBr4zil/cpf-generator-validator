@@ -1,4 +1,4 @@
-# 🧾 cpf-gerador-validador
+# 🧾 CPF Generator and Validator
 
 Projeto em Python para **geração** e **validação** de números de CPF (Cadastro de Pessoas Físicas) válidos, seguindo as regras oficiais de cálculo dos dígitos verificadores.
 
